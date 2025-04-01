@@ -13,30 +13,30 @@ Features<br>
 Requirements<br>
 
 To run this code, ensure you have:<br>
-	•	MATLAB installed on your system.
-	•	Basic knowledge of MATLAB and control system theory.
+	•	MATLAB installed on your system.<br>
+	•	Basic knowledge of MATLAB and control system theory.<br>
 
-Installation
-	1.	Clone this repository to your local machine:
-git clone https://github.com/aliahmadomran/model-order-reduction-differentiation-method.git
-	2.	Open MATLAB and navigate to the project directory.
-	3.	Run the provided MATLAB script to execute the Model Order Reduction.
+Installation<br>
+	1.	Clone this repository to your local machine:<br>
+git clone https://github.com/aliahmadomran/model-order-reduction-differentiation-method.git  <br>
+	2.	Open MATLAB and navigate to the project directory.<br>
+	3.	Run the provided MATLAB script to execute the Model Order Reduction.<br>
 
-Usage
-	1.	Define the original high-order system in Numerator and Denominator coefficients of the transfer function form.
-        2.      Choose the order of the system you want to obtain.
-	3.	Apply the Differentiation Method for order reduction.
-	4.	Analyze and compare the reduced model with the original system.
+Usage<br>
+	1.	Define the original high-order system in Numerator and Denominator coefficients of the transfer function form.<br>
+        2.      Choose the order of the system you want to obtain.<br>
+	3.	Apply the Differentiation Method for order reduction.<br>
+	4.	Analyze and compare the reduced model with the original system.<br>
 
-Example:
-
+Example: <br>
+```matlab
 % what reduced system order do you want ?
 reduced_system_order = 3; % for example 3rd order
 
 % Given Transfer Function
 num = [35 1086 13285 82402 278376 511812 482964 194480]; % Numerator coefficients 
 den = [1 33 437 3017 11870 27470 37492 28880 9600]; % Denominator coefficients 
-
+```
 
 Contribution
 
