@@ -4,6 +4,11 @@ Description
 
 This MATLAB code performs Model Order Reduction (MOR) using the Differentiation Method. Model Order Reduction is a technique used to simplify complex dynamical systems while preserving their essential characteristics. The Differentiation Method is specifically applied to reduce the order of a given system while maintaining accuracy and stability.
 
+## Reference  
+The code is an implementation of the following paper:  
+
+[**Contributions to the Model Reduction Problem**](https://ieeexplore.ieee.org/abstract/document/1102930)  
+
 Features<br>
 	•	Implements Model Order Reduction using the Differentiation Method.<br>
 	•	Reduces the computational complexity of high-order systems.<br>
