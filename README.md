@@ -37,6 +37,8 @@ git clone https://github.com/aliahmadomran/model-order-reduction-differentiation
 	4.	Analyze and compare the reduced model with the original system.<br>
 
 ## Example: 
+![example](docs/img.jpg) 
+
 ```matlab
 % what reduced system order do you want ?
 reduced_system_order = 3; % for example 3rd order
@@ -45,7 +47,8 @@ reduced_system_order = 3; % for example 3rd order
 num = [35 1086 13285 82402 278376 511812 482964 194480]; % Numerator coefficients 
 den = [1 33 437 3017 11870 27470 37492 28880 9600]; % Denominator coefficients 
 ```
-
+Result
+![Result](docs/untitled.jpg)
 ## Contribution
 
 Feel free to contribute by submitting pull requests or reporting issues. Any improvements or suggestions are welcome!<br>
