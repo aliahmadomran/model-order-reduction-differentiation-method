@@ -1,3 +1,3 @@
-model order reduction 
-odel order reduce
+model order reduction \n
+model order reduce
 differentiation method
