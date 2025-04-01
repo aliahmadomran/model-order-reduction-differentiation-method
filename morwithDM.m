@@ -38,3 +38,9 @@ G_original = tf(num, den)
 
 fprintf('Reduced-Order Transfer Function G%d(s):',reduced_system_order);
 G2 = tf( K*reduced_num , reduced_den)
+
+
+figure(1)
+step(G_original, G2);
+title('Step Response Comparison');
+legend('Original', 'reduced Order Model');
