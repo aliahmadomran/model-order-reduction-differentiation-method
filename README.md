@@ -18,16 +18,13 @@ To run this code, ensure you have:
 
 Installation
 	1.	Clone this repository to your local machine:
-
 git clone https://github.com/aliahmadomran/model-order-reduction-differentiation-method.git
-
-
 	2.	Open MATLAB and navigate to the project directory.
 	3.	Run the provided MATLAB script to execute the Model Order Reduction.
 
 Usage
 	1.	Define the original high-order system in Numerator and Denominator coefficients of the transfer function form.
-  2.  Choose the order of the system you want to obtain.
+        2.      Choose the order of the system you want to obtain.
 	3.	Apply the Differentiation Method for order reduction.
 	4.	Analyze and compare the reduced model with the original system.
 
@@ -49,6 +46,6 @@ Feel free to contribute by submitting pull requests or reporting issues. Any imp
 Contact
 
 For any questions or further information, contact:
-	•	Your Name
-	•	Email: your-email@example.com
-	•	GitHub: your-username
+	•	Your Name: Ali Omran
+	•	Email: ali_o@ee.iitr.ac.in OR aliomran810@gmail.com
+	•	GitHub: AliAhmadOmran
