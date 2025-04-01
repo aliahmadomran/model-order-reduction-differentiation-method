@@ -38,14 +38,14 @@ num = [35 1086 13285 82402 278376 511812 482964 194480]; % Numerator coefficient
 den = [1 33 437 3017 11870 27470 37492 28880 9600]; % Denominator coefficients 
 ```
 
-Contribution
+Contribution<br>
 
-Feel free to contribute by submitting pull requests or reporting issues. Any improvements or suggestions are welcome!
+Feel free to contribute by submitting pull requests or reporting issues. Any improvements or suggestions are welcome!<br>
 
 
-Contact
+Contact<br>
 
-For any questions or further information, contact:
-	•	Your Name: Ali Omran
-	•	Email: ali_o@ee.iitr.ac.in OR aliomran810@gmail.com
-	•	GitHub: AliAhmadOmran
+For any questions or further information, contact:<br>
+	•	Your Name: Ali Omran<br>
+	•	Email: ali_o@ee.iitr.ac.in OR aliomran810@gmail.com<br>
+	•	GitHub: AliAhmadOmran<br>
